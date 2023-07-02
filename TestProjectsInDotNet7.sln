@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-7-dapper-postgres-crud-api", "dotnet-7-dapper-postgres-crud-api.csproj", "{DDA5DF00-A088-452D-A900-0B1CE7EFB0DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnet-7-dapper-postgres-crud-api", "dotnet-7-dapper-postgres-crud-api.csproj", "{DDA5DF00-A088-452D-A900-0B1CE7EFB0DB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "signup-verification-refreshToken-api", "signup-verification-refreshToken-api\signup-verification-refreshToken-api.csproj", "{C78F7072-57BF-4F36-A7B9-D17C6E4A14F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DDA5DF00-A088-452D-A900-0B1CE7EFB0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDA5DF00-A088-452D-A900-0B1CE7EFB0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDA5DF00-A088-452D-A900-0B1CE7EFB0DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C78F7072-57BF-4F36-A7B9-D17C6E4A14F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C78F7072-57BF-4F36-A7B9-D17C6E4A14F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C78F7072-57BF-4F36-A7B9-D17C6E4A14F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C78F7072-57BF-4F36-A7B9-D17C6E4A14F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
