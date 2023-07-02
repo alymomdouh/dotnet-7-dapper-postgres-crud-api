@@ -20,3 +20,8 @@
 .NET 6.0 - Boilerplate API Tutorial with Email Sign Up, Verification, Authentication & Forgot Password
 https://github.com/cornflourblue/dotnet-6-signup-verification-api
 -->
+##### 12- [.NET 6.0 - JWT Authentication with Refresh Tokens Tutorial with Example API](https://jasonwatmore.com/net-6-jwt-authentication-with-refresh-tokens-tutorial-with-example-api)
+<!--
+.NET 6.0 - JWT Authentication with Refresh Tokens Tutorial with Example API
+https://github.com/cornflourblue/dotnet-6-jwt-refresh-tokens-api
+-->
