@@ -15,3 +15,8 @@
 ##### 8- [.NET 7.0 + Dapper + MS SQL Server - CRUD API Tutorial in ASP.NET Core](https://jasonwatmore.com/net-7-dapper-ms-sql-server-crud-api-tutorial-in-aspnet-core)  
 ##### 9- [.NET 7.0 + Dapper - Connect to SQLite Database in ASP.NET Core](https://jasonwatmore.com/net-7-dapper-connect-to-sqlite-database-in-aspnet-core)  
 ##### 10- [Dapper + SQL Server - Create database if it doesn't exist on startup in ASP.NET Core](https://jasonwatmore.com/dapper-sql-server-create-database-if-it-doesn-t-exist-on-startup-in-aspnet-core)  
+##### 11- [.NET 6.0 - Boilerplate API Tutorial with Email Sign Up, Verification, Authentication & Forgot Password](https://jasonwatmore.com/post/2022/02/26/net-6-boilerplate-api-tutorial-with-email-sign-up-verification-authentication-forgot-password)
+<!-- 
+.NET 6.0 - Boilerplate API Tutorial with Email Sign Up, Verification, Authentication & Forgot Password
+https://github.com/cornflourblue/dotnet-6-signup-verification-api
+-->
