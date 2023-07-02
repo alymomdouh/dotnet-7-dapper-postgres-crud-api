@@ -13,3 +13,4 @@
 ##### 6- [Postgres + Dapper - Create database if it doesn't exist on startup with C# and ASP.NET Core](https://jasonwatmore.com/postgres-dapper-create-database-if-it-doesnt-exist-on-startup-with-c-and-aspnet-core)  
 ##### 7- [.NET 7.0 + Dapper - Connect to MS SQL Server Database in ASP.NET Core](https://jasonwatmore.com/net-7-dapper-connect-to-ms-sql-server-database-in-aspnet-core)  
 ##### 8- [.NET 7.0 + Dapper + MS SQL Server - CRUD API Tutorial in ASP.NET Core](https://jasonwatmore.com/net-7-dapper-ms-sql-server-crud-api-tutorial-in-aspnet-core)  
+##### 9- [.NET 7.0 + Dapper - Connect to SQLite Database in ASP.NET Core](https://jasonwatmore.com/net-7-dapper-connect-to-sqlite-database-in-aspnet-core)  
