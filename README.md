@@ -28,6 +28,7 @@ https://github.com/cornflourblue/dotnet-6-jwt-refresh-tokens-api
 
 ##### 12- [.NET 7.0 + C# - JWT Authentication Tutorial without ASP.NET Core Identity](https://jasonwatmore.com/net-7-csharp-jwt-authentication-tutorial-without-aspnet-core-identity)
 ##### 13- [.NET 7.0 - Create Custom AuthorizeAttribute and AllowAnonymous Attribute](https://jasonwatmore.com/post/2023/01/19/net-7-create-custom-authorizeattribute-and-allowanonymous-attribute)
+##### 14- [.NET 7.0 Auth - Sign & Validate JWT Without Core Identity](https://jasonwatmore.com/post/2023/01/19/net-7-auth-sign-validate-jwt-without-core-identity)
 
 
 
