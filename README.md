@@ -31,7 +31,7 @@ https://github.com/cornflourblue/dotnet-6-jwt-refresh-tokens-api
 ##### 14- [.NET 7.0 Auth - Sign & Validate JWT Without Core Identity](https://jasonwatmore.com/post/2023/01/19/net-7-auth-sign-validate-jwt-without-core-identity)
 ##### 15- [.NET 7.0 - Create a Base Controller in .NET](https://jasonwatmore.com/post/2023/01/20/net-7-create-a-base-controller-in-net)
 
-
+### 16- [C# + RestSharp - HTTP GET Request Examples in .NET](https://jasonwatmore.com/c-restsharp-http-get-request-examples-in-net)  also found (POST, PUT, DELETE.)
 
 
 
