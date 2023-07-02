@@ -32,6 +32,7 @@ https://github.com/cornflourblue/dotnet-6-jwt-refresh-tokens-api
 ##### 15- [.NET 7.0 - Create a Base Controller in .NET](https://jasonwatmore.com/post/2023/01/20/net-7-create-a-base-controller-in-net)
 
 ### 16- [C# + RestSharp - HTTP GET Request Examples in .NET](https://jasonwatmore.com/c-restsharp-http-get-request-examples-in-net)  also found (POST, PUT, DELETE.)
+### 17- [C# + .NET 7.0 - Serialize (Convert) Enum to String in API Response](https://jasonwatmore.com/c-net-7-serialize-convert-enum-to-string-in-api-response)   
 
 
 
