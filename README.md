@@ -35,6 +35,7 @@ https://github.com/cornflourblue/dotnet-6-jwt-refresh-tokens-api
 ### 17- [C# + .NET 7.0 - Serialize (Convert) Enum to String in API Response](https://jasonwatmore.com/c-net-7-serialize-convert-enum-to-string-in-api-response)   
 ##### 16-[.NET 6.0 - Role Based Authorization Tutorial with Example API](https://jasonwatmore.com/post/2022/02/18/net-6-role-based-authorization-tutorial-with-example-api)
 ##### 17-[.NET 6.0 - Send an Email via SMTP with MailKit](https://jasonwatmore.com/post/2022/03/11/net-6-send-an-email-via-smtp-with-mailkit)
+##### 18-[.NET 6.0 - Connect to SQLite Database with Entity Framework Core](https://jasonwatmore.com/post/2022/09/05/net-6-connect-to-sqlite-database-with-entity-framework-core)
 
 
 
