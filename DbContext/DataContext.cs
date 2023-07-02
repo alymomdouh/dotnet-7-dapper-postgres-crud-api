@@ -24,6 +24,7 @@ namespace dotnet_7_dapper_postgres_crud_api.DbContext
         public IDbConnection CreateConnection()
         {
             var connectionString = $"Host={_dbSettings.Server}; Database={_dbSettings.Database}; Username={_dbSettings.UserId}; Password={_dbSettings.Password};";
+            // this for postgres DataBase
             return new NpgsqlConnection(connectionString);
         }
 
@@ -31,6 +32,7 @@ namespace dotnet_7_dapper_postgres_crud_api.DbContext
         {
             // create database if it doesn't exist
             var connectionString = $"Host={_dbSettings.Server}; Database=postgres; Username={_dbSettings.UserId}; Password={_dbSettings.Password};";
+            // this for postgres DataBase
             using var connection = new NpgsqlConnection(connectionString);
             var sqlDbCount = $"SELECT COUNT(*) FROM pg_database WHERE datname = '{_dbSettings.Database}';";
             var dbCount = await connection.ExecuteScalarAsync<int>(sqlDbCount);
@@ -50,16 +52,16 @@ namespace dotnet_7_dapper_postgres_crud_api.DbContext
             async Task _initUsers()
             {
                 var sql = """
-                CREATE TABLE IF NOT EXISTS Users (
-                    Id SERIAL PRIMARY KEY,
-                    Title VARCHAR,
-                    FirstName VARCHAR,
-                    LastName VARCHAR,
-                    Email VARCHAR,
-                    Role INTEGER,
-                    PasswordHash VARCHAR
-                );
-            """;
+                            CREATE TABLE IF NOT EXISTS Users (
+                                Id SERIAL PRIMARY KEY,
+                                Title VARCHAR,
+                                FirstName VARCHAR,
+                                LastName VARCHAR,
+                                Email VARCHAR,
+                                Role INTEGER,
+                                PasswordHash VARCHAR
+                            );
+                        """;
                 await connection.ExecuteAsync(sql);
             }
         }
